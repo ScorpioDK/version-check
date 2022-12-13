@@ -3,6 +3,10 @@
         "currentversion": "1.2.0"
     },
     
+    "dispatch": {
+        "currentversion": "1.2.0"
+    },
+    
     "loading": {
         "currentversion": "1.0.0"
     }
