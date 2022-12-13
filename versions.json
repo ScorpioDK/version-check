@@ -1,5 +1,9 @@
 {
     "tablet": {
         "currentversion": "1.2.0"
+    },
+    
+    "loading": {
+        "currentversion": "1.2.0"
     }
 }
