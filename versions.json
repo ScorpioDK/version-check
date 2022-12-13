@@ -1,12 +1,5 @@
 {
-    "dispatch": {
-        "currentversion": "1.0.0"
-    },
-    "dispatchqb": {
-        "currentversion": "1.0.0"
-    },
-
     "tablet": {
-        "currentversion": "1.2.0"
+        "currentversion": "1.2.1"
     }
 }
