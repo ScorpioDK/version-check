@@ -3,6 +3,10 @@
         "currentversion": "1.5.0"
     },
     
+    "emstablet": {
+        "currentversion": "1.0.0"
+    },
+    
     "dispatch": {
         "currentversion": "1.0.0"
     },
