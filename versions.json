@@ -1,10 +1,10 @@
 {
     "tablet": {
-        "currentversion": "1.5.1"
+        "currentversion": "1.5.2"
     },
     
     "emstablet": {
-        "currentversion": "1.0.0"
+        "currentversion": "1.0.1"
     },
     
     "dispatch": {
